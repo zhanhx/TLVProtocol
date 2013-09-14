@@ -1,4 +1,0 @@
-TLVProtocol
-===========
-
-TLV Protocol
